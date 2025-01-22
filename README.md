@@ -24,13 +24,13 @@ Välkommen till min GitHub-portfölj! Jag är en passionerad utvecklare med erfa
   - Frontend-design.
   - Fullständig funktionalitet.
 
-
+---
 
 🛠️ Projekt på GitHub
 
 Här är några av mina övriga projekt som visar mina färdigheter och bredd som utvecklare:
 
- Android-appar
+### Android-appar
 - BMI Calculator  
   - En app för att beräkna BMI och ge användbara hälsotips.
 
