@@ -14,6 +14,11 @@ Välkommen till min GitHub-portfölj! Jag är en passionerad utvecklare med erfa
   - Körsträckemätare och spårning av resvägar för förare.
 - Skapad från grunden med fokus på att lösa verkliga problem för användare.
 
+![441748738_983966599566950_7238627562217113630_n (1)](https://github.com/user-attachments/assets/849cc9c9-b202-4d5d-b613-1513369fe282)
+
+![441470615_446048428056403_1518388425215488766_n (1)](https://github.com/user-attachments/assets/7d79d5ca-8cef-4960-8cfa-ed06cd212507)
+
+![441451134_818434440345918_3397625015416099815_n (1)](https://github.com/user-attachments/assets/a5fa5206-0ede-419c-b2e0-bf2271291c1e)
 
 ---
 
