@@ -75,6 +75,17 @@ Här är några av mina övriga projekt som visar mina färdigheter och bredd so
 
 ---
 
+### Cross-platform-appar
+- **MyParkingApp - Flutter**  
+  - En parkeringsapp som hämtar data från Stockholms parkerings-API, med information om tider, priser och zoner som visas på en karta för enkel parkering. Appen inkluderar även tvättgatornas datum, och användaren får notiser inför dessa. En unik parkeringstjänst med funktioner som skiljer sig från andra appar på marknaden. Appen är fortfarande under utveckling och inte färdig.
+    
+- **Jobbai-app - React**  
+  - En AI-driven app som hjälper dig att söka jobb med bara ett klick. Genom att trycka på "Ansök" skickar appen automatiskt jobbansökningar åt dig. Jobben hämtas från Platsbanken via API. Appen är under utveckling och inte en färdig produkt än.
+
+- **JobbApp - React**  
+  - En jobbapp med samma grundfunktion som Jobbai-app, men med ny design och fler funktioner. När du klickar på "Ansök" skickas du vidare till arbetsgivarens webbplats för att slutföra ansökan.
+
+---
 
 ## 🔗 Demo och länkar
 - [Res Smart i App Store](https://apps.apple.com/se/app/res-smart/id6450431851?platform=iphone)
